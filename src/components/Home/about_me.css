@@ -1,0 +1,23 @@
+body {
+    background-color: #063852;
+}
+
+nav.navbar {
+    background-color: #f0810f;
+}
+
+div.container {
+    max-width: 540px;
+    margin-top: 50px;
+    background-color: #011a27;
+}
+
+img {
+    margin-top: 25px;
+}
+
+div.card-body {
+    margin-left: 20px;
+    margin-top: 5px;
+    color: antiquewhite;
+}

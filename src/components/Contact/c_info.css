@@ -1,0 +1,25 @@
+body {
+    background-color: #063852;
+}
+
+nav.navbar {
+    background-color: #f0810f;
+}
+
+div.container {
+    width: 30rem;
+    margin-top: 45px;
+}
+
+div.card {
+    background-color: #011a27;
+    color: antiquewhite;
+}
+
+img.card-img-top {
+    margin-top: 15px;
+}
+
+div.card-body h6 {
+    text-align: center;
+} 
