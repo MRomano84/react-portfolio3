@@ -31,6 +31,7 @@ export default class Projects extends Component {
                     </div>
                     <div className="empty col s12" />
                 </div>
+                <br></br>
                 <div className="row">
                     <div className="empty col s12" />
                     {/* TRUFFLE SHUFFLE */}
@@ -61,6 +62,7 @@ export default class Projects extends Component {
                     </div>
                     <div className="empty col s12" />
                 </div>
+                <br></br>
                 <div className="row">
                     <div className="empty col s12" />
                     {/* Art Stack */}
