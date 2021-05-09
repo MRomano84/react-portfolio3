@@ -13,9 +13,9 @@ export default class Navbar extends Component {
                     </div>
                     <div className="collapse navbar-collapse col-6" id="navbarNav">
                         <ul className="navbar-nav">
-                            <li className="nav-item"><a className="nav-link active" aria-current="page" href="./index.html">Home</a></li>
-                            <li className="nav-item"><a className="nav-link" href="./portfolio.html">Portfolio</a></li>
-                            <li className="nav-item"><a className="nav-link" href="./contact.html">Contact Info</a></li>
+                            <li className="nav-item"><a className="nav-link active" aria-current="page" href="/">Home</a></li>
+                            <li className="nav-item"><a className="nav-link" href="/projects">Projects</a></li>
+                            <li className="nav-item"><a className="nav-link" href="/contact">Contact Info</a></li>
                         </ul>
                     </div>
                 </div>
