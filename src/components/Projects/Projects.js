@@ -5,6 +5,7 @@ export default class Projects extends Component {
     render() {
         return (
             <div>
+                <br></br>
                 <div className="row">
                     <div className="empty col s12" />
                     {/* PASSWORD GENERATOR */}
