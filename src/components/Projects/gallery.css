@@ -21,6 +21,10 @@ div.card {
 }
 
 span.app {
-    color: antiquewhite;
+    color: white;
     text-decoration: underline;
+}
+
+ul li {
+    list-style: none;
 }

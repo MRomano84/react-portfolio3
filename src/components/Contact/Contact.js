@@ -8,8 +8,8 @@ export default class Contact extends Component {
                 <img src="../../../images/multnomah-falls.jpg" className="card-img-top" alt="Multnomah Falls" />
                 <div className="card-body">
                     <h3 className="card-title">Contact Info</h3>
-                    <p className="card-text">"There has never been a sadness that can't be cured by breakfast food."</p>
-                    <h6 className="card-tittle">~Ron Swanson</h6>
+                    <p className="card-text">"You can't untell a tale, you can't out slow a snail."</p>
+                    <h6 className="card-tittle">~Bobby Bird</h6>
                 </div>
                 <div>
                     <ul className="list-group list-group-flush">
