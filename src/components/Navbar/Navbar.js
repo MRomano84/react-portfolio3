@@ -14,9 +14,9 @@ export default class Navbar extends Component {
                     </div>
                     <div className="collapse navbar-collapse col-6" id="navbarNav">
                         <ul className="navbar-nav nav-links">
-                            <li className="nav-item"><a className="nav-link active" aria-current="page" href="/">Home</a></li>
-                            <li className="nav-item"><a className="nav-link" href="/projects">Projects</a></li>
-                            <li className="nav-item"><a className="nav-link" href="/contact">Contact Info</a></li>
+                            <li className="nav-item"><a className="nav-link active" aria-current="page" href="react-portfolio3/">Home</a></li>
+                            <li className="nav-item"><a className="nav-link" href="react-portfolio3/projects">Projects</a></li>
+                            <li className="nav-item"><a className="nav-link" href="react-portfolio3/contact">Contact Info</a></li>
                         </ul>
                     </div>
                 </div>
