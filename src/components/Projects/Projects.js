@@ -26,7 +26,7 @@ export default class Projects extends Component {
                             checkbox of the 4 character
                                 types are selected.</p>
                             <p>Finally, click the 'GENERATE' button to generate a random password based on the parameters you
-                                selected.</p>
+                                selected. </p>
                         </div>
                     </div>
                     <div className="empty col s12" />
